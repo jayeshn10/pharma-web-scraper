@@ -1,0 +1,311 @@
+,category,sub-category,category-id
+0,Anti Diabetic,Human Insulin Basal,208
+1,Anti Diabetic,Human Insulin Premix,39
+2,Anti Diabetic,Human Insulin Rapid,100
+3,Anti Diabetic,Human Insulins And Analogues,298
+4,Anti Diabetic,Insulin Analogues Basal,245
+5,Anti Diabetic,Insulin Analogues Rapid,43
+6,Anti Diabetic,Oral Antidiabetics,307
+7,Anti Diabetic,Other Drugs Used In Diabetes,83
+8,Anti Infectives,All Other Anti Infectives,142
+9,Anti Infectives,Amebicides,309
+10,Anti Infectives,Aminoglycosides,141
+11,Anti Infectives,Anthelmintics Excluding Schistosomicides,311
+12,Anti Infectives,Anti Flu Drugs,174
+13,Anti Infectives,Antitubercular Products,120
+14,Anti Infectives,Antivirals Excluding Hiv Products,313
+15,Anti Infectives,Broad Spectrum Penicillins,275
+16,Anti Infectives,Carbenicillin And Similar Types,89
+17,Anti Infectives,Cephalosporins,144
+18,Anti Infectives,Chloramphenicol And Combinations,187
+19,Anti Infectives,Drugs For Treatment Of Lepra,114
+20,Anti Infectives,Fluoroquinolones,70
+21,Anti Infectives,Hiv Antivirals,294
+22,Anti Infectives,Macrolides And Similar Types,50
+23,Anti Infectives,Medium And Narrow Spectrum Penicillins,288
+24,Anti Infectives,Other Antibacterials,157
+25,Anti Infectives,Other Anti Parasitic Agents,310
+26,Anti Infectives,Other Beta Lactam Antibacterials Excluding Penicillins Cephalosporins,191
+27,Anti Infectives,Schistosomicides,312
+28,Anti Infectives,Systemic Agents For Fungal Infections,215
+29,Anti Infectives,Systemic Sulphonamides Excluding Trimethoprim Combinations,287
+30,Anti Infectives,Tetracyclines And Combinations,150
+31,Anti Infectives,Trichomonacides,308
+32,Anti Infectives,Trimethoprim And Similar Formulations,56
+33,Anti Malarials,Other Anti Malarials,258
+34,Anti Neoplastics,Alkylating Agents,146
+35,Anti Neoplastics,All Other Antineoplastics,265
+36,Anti Neoplastics,Antimetabolites,185
+37,Anti Neoplastics,Antineoplastic Antibiotics,137
+38,Anti Neoplastics,Anti Tnf Products,57
+39,Anti Neoplastics,Cytostatic Hormone Antagonists,69
+40,Anti Neoplastics,Cytostatic Hormones,241
+41,Anti Neoplastics,Immunostimulating Agents Excluding Interferons,75
+42,Anti Neoplastics,Immunosuppressive Agents,148
+43,Anti Neoplastics,Interferons,195
+44,Anti Neoplastics,Vinca Alkaloids And Other Plant Products,136
+45,Blood Related,Antagonists Antidotes To Anticoagulants,221
+46,Blood Related,Antifibrinolytics,232
+47,Blood Related,Detoxifying Agents For Antineoplastic Treatment,314
+48,Blood Related,Dextrans,352
+49,Blood Related,Direct Factor Xa Inhibitors,193
+50,Blood Related,Electrolyte Solutions,353
+51,Blood Related,Erythropoietin Products,199
+52,Blood Related,Haematinics,200
+53,Blood Related,Heparins,210
+54,Blood Related,Hyaluronidase,279
+55,Blood Related,Iron Chelating Agents,317
+56,Blood Related,Irrigating Solutions,351
+57,Blood Related,Liver Extracts And Combinations With B12,227
+58,Blood Related,Other Antithrombotic Agents Blood,316
+59,Blood Related,Platelet Aggregation Inhibitors,293
+60,Blood Related,Proteinase Inhibitors,54
+61,Blood Related,Solutions For Osmotic Therapy,315
+62,Blood Related,Standard Solutions,354
+63,Blood Related,Systemic Heamostatics,235
+64,Blood Related,Vitamin K Antagonists,318
+65,Cardiac,Ace Inhibitors Combined With Anti Hypertensives,184
+66,Cardiac,Ace Inhibitors Combined With Diuretics,158
+67,Cardiac,Ace Inhibitors Plain,198
+68,Cardiac,Ace Inhibitors Statins Fibrate,71
+69,Cardiac,All Other Cardiac Preparations,291
+70,Cardiac,All Other Cholesterol Triglyceride Regulators,179
+71,Cardiac,Angiotensin Ii Antagonists Ace Inhibitors,102
+72,Cardiac,Angiotensin Ii Antagonists Beta Blockers,255
+73,Cardiac,Angiotensin Ii Antagonists Calcium Antagonists,110
+74,Cardiac,Angiotensin Ii Antagonists Combined With Anti Hypertensives,285
+75,Cardiac,Angiotensin Ii Antagonists Diuretics,192
+76,Cardiac,Angiotensin Ii Antagonists Plain,88
+77,Cardiac,Angiotensin Ii Antagonists Statins Fibrate,81
+78,Cardiac,Anti Anginals,222
+79,Cardiac,Anti Arrhythmics,256
+80,Cardiac,Anti Atheroma Preparations Of Natural Origin,140
+81,Cardiac,Antihypertensives Non Herbal Centrally Acting,49
+82,Cardiac,Antihypertensives Non Herbal Peripherally Acting,178
+83,Cardiac,Beta Blockers Combined With Calcium Antagonists,282
+84,Cardiac,Beta Blockers Combined With Diuretics,138
+85,Cardiac,Beta Blockers Statins Fibrate,278
+86,Cardiac,Beta Blocking Agents Combined With Ace Inhibitors,297
+87,Cardiac,Beta Blocking Agents Plain,147
+88,Cardiac,Calcium Antagonists Combined With Ace Inhibitors,233
+89,Cardiac,Calcium Antagonists Combined With Anti Hypertensives,173
+90,Cardiac,Calcium Antagonists Combined With Diuretics,242
+91,Cardiac,Calcium Antagonists Plain,264
+92,Cardiac,Calcium Antagonists Statins Fibrate,262
+93,Cardiac,Cardiac Glycosides And Combinations,139
+94,Cardiac,Cardiac Stimulants Excluding Cardiac Glycosides,60
+95,Cardiac,Combination Of Two Diuretics,164
+96,Cardiac,Coronary Therapy Excluding Calcium Antagonists And Nitrites,92
+97,Cardiac,Direct Thrombin Inhibitors,320
+98,Cardiac,Fibrates,244
+99,Cardiac,Fibrates Combination,159
+100,Cardiac,Fibrinolytics,321
+101,Cardiac,Ion Exchange Resin,90
+102,Cardiac,Loop Diuretics Plain,243
+103,Cardiac,Nitrites And Nitrates,301
+104,Cardiac,Other Antithrombotic Agents,319
+105,Cardiac,Other Beta Blocking Agent Combinations,289
+106,Cardiac,Other Cardiovascular Products,41
+107,Cardiac,Other Diuretics,82
+108,Cardiac,Positive Inotropic Agents,203
+109,Cardiac,Potassium Sparing Agents Plain,271
+110,Cardiac,Renin Inhibitor,175
+111,Cardiac,Renin Inhibitor Combined With Anti Hypertensives,277
+112,Cardiac,Statins,234
+113,Cardiac,Statins Combination,231
+114,Cardiac,Statins Combined With Anti Platelet Drugs,207
+115,Cardiac,Statins Combined With Ezetimibe,161
+116,Cardiac,Statins Combined With Fibrates,73
+117,Cardiac,Statins Combined With Other Lipid Regulators,59
+118,Cardiac,Thiazides And Analogues Plain,53
+119,Cardiac,Topical Anti Haemorrhoidals,125
+120,Cardiac,Vitamin K Antagonists Cardiac,322
+121,Derma,Anti Dandruff,206
+122,Derma,Anti Pruritics Including Topical Antihistamines Anaesthetics Etc,121
+123,Derma,Antiseptics And Disinfectants Human Use,117
+124,Derma,Demelanising Agents,190
+125,Derma,Ectoparasiticides Including Scabicides,323
+126,Derma,Emollients Protectives,40
+127,Derma,Haircare Products,84
+128,Derma,Melanising Agents,250
+129,Derma,Oral Anti Acne Preparations,103
+130,Derma,Other Dermatological Preparations,201
+131,Derma,Other Non Steroidal Products For Inflammatory Skin Disorders,296
+132,Derma,Plain Topical Corticosteroids,65
+133,Derma,Skin Dermal Epidermal Preparations,104
+134,Derma,Systemic Antipsoriasis Prodcuts,228
+135,Derma,Topical Anti Acne Preparations,202
+136,Derma,Topical Antibiotics And Or Sulphonamids,116
+137,Derma,Topical Antipsoriasis Products,292
+138,Derma,Topical Antivirals,263
+139,Derma,Topical Corticosteroid Combinations,58
+140,Derma,Topical Dermatological Antifungals,149
+141,Gastro Intestinal,All Other Antidiarrhoeals,266
+142,Gastro Intestinal,All Other Anti Ulcerants,105
+143,Gastro Intestinal,Amebicides Gastro,324
+144,Gastro Intestinal,Antacids Antiflatulents And Carminatives,189
+145,Gastro Intestinal,Antidiarrhoeal Micro Organisms,214
+146,Gastro Intestinal,Antispasmodic Analgesic Combinations,47
+147,Gastro Intestinal,Antispasmodic Ataractic Combinations,182
+148,Gastro Intestinal,Antispasmodics Combined With Other Products,226
+149,Gastro Intestinal,Anti Ulcerants Acid Pump Inhibitors,86
+150,Gastro Intestinal,Anti Ulcerants H2 Antagonists,72
+151,Gastro Intestinal,Anti Ulcerants Prostaglandins,80
+152,Gastro Intestinal,Anti Ulcerants With Antibiotics,171
+153,Gastro Intestinal,Bile Therapy And Cholagogues Bile Stone Therapy,45
+154,Gastro Intestinal,Bulk Producers,134
+155,Gastro Intestinal,Cholagogue Lipotropic Combinations,260
+156,Gastro Intestinal,Contact Laxatives,295
+157,Gastro Intestinal,Drugs For Pancreatic Disorder,172
+158,Gastro Intestinal,Enemas,126
+159,Gastro Intestinal,Enzyme Combinations,252
+160,Gastro Intestinal,Gastro Intestinal Sensorimotor Modulators,246
+161,Gastro Intestinal,Gastroprokinetics,237
+162,Gastro Intestinal,Hepatic Protectors Lipotropics,218
+163,Gastro Intestinal,Intestinal Anti Infective Antidiarrhoeals,52
+164,Gastro Intestinal,Intestinal Anti Inflammatory Agents,213
+165,Gastro Intestinal,Motility Inhibitors,286
+166,Gastro Intestinal,Oral Saline Preparations,194
+167,Gastro Intestinal,Other Antiemetics And Antinauseants,95
+168,Gastro Intestinal,Other Laxatives,76
+169,Gastro Intestinal,Other Stomac Disorder Preparations,111
+170,Gastro Intestinal,Pancreatic Enzymes,280
+171,Gastro Intestinal,Serotonin Antagonist Antiemetics Antinauseants,123
+172,Gastro Intestinal,Softners Emollients,219
+173,Gastro Intestinal,Tetracyclines And Combinations Gastro,355
+174,Gynaecological,Agents For Fungal Infections,356
+175,Gynaecological,Androgens Excluding G3 E G3 F,66
+176,Gynaecological,Gonadotrophins Including Other Ovulation Stimulants,101
+177,Gynaecological,Gynaecological Antibiotics Sulphonamides,169
+178,Gynaecological,Haematinics Iron And All Combinations,357
+179,Gynaecological,Hormonal Contraceptives Systemic,94
+180,Gynaecological,Labour Inducers,302
+181,Gynaecological,Labour Inhibitors,145
+182,Gynaecological,Oestrogens Excluding G3 A G3 E G3 F,93
+183,Gynaecological,Oestrogen With Progestogen Combinations Excluding G3 A,281
+184,Gynaecological,Other Gynaecological Products,284
+185,Gynaecological,Other Sex Hormones And Similar Products,209
+186,Gynaecological,Progestogens Excluding G3 A G3 F,254
+187,Gynaecological,Prolactin Inhibitors,98
+188,Gynaecological,Selective Oestrogen Receptor Modulators Serms,251
+189,Hormones,Acth,329
+190,Hormones,Anabolic Hormones Systemic,326
+191,Hormones,Antidiuretic Hormones,336
+192,Hormones,Antigonadotrphin Releasing Hormones,332
+193,Hormones,Antigrowth Hormones,335
+194,Hormones,Anti Osteoporotic Products,129
+195,Hormones,Anti Rheumatics Corticosteroid Combinations Systemic,223
+196,Hormones,Anti Thyroid Preparation,328
+197,Hormones,Glucagon,327
+198,Hormones,Gonadotrophin Releasing Hormones Not Used As Cytostatics,331
+199,Hormones,Growth Hormones,334
+200,Hormones,Other Anabolic Agents Systemic,325
+201,Hormones,Systemic Corticosteroids Plain,330
+202,Hormones,Thyroid Preparation,333
+203,Neuro Cns,All Other Cns Drugs,62
+204,Neuro Cns,Anti Alzheimer Products,77
+205,Neuro Cns,Anti Depressants And Mood Stabilisers,224
+206,Neuro Cns,Anti Epileptics,78
+207,Neuro Cns,Anti Migraine Preparations,97
+208,Neuro Cns,Anti Parkinson Drugs,64
+209,Neuro Cns,Anti Smoking Products,272
+210,Neuro Cns,Antivertigo Products,274
+211,Neuro Cns,Atypical Antipsychotics,204
+212,Neuro Cns,Conventional Antipsychotics,273
+213,Neuro Cns,Drugs Used In Alcohol Dependence,79
+214,Neuro Cns,Drugs Used In Opioid Dependence,337
+215,Neuro Cns,Hypnotics Sedatives,124
+216,Neuro Cns,Neurotonics Other Miscellaneous Drugs,259
+217,Neuro Cns,Nootropics,44
+218,Neuro Cns,Tranquillisers,300
+219,Ophthal,Artificial Tears And Ocular Lubricants,152
+220,Ophthal,Miotics And Antiglaucoma Preparations,229
+221,Ophthal,Mydriatics And Cyclopegics,253
+222,Ophthal,Ocular Anti Allergics Decongestants Antiseptics,135
+223,Ophthal,Ocular Antineovascularisation Products,61
+224,Ophthal,Ophthalmological Anti Infectives Medicines,359
+225,Ophthal,Ophthalmological Corticosteroids,283
+226,Ophthal,Opthalmological Diagnostic Agents,211
+227,Ophthal,Opthalmological Local Anaesthetics,217
+228,Ophthal,Opthalmological Nsaids,108
+229,Ophthal,Opthalmological Surgical Aids,151
+230,Ophthal,Other Opthalmologicals,74
+231,Ophthal Otologicals,Eye Ear Anti Infectives,155
+232,Ophthal Otologicals,Eye Ear Anti Infectives Corticosteroid Combinations,267
+233,Ophthal Otologicals,Eye Ear Corticosteroids,112
+234,Ophthal Otologicals,Ophthalmological Anti Infectives,176
+235,Others,Allergens,85
+236,Others,All Other Non Therapeutic Products,162
+237,Others,Antidotes,51
+238,Others,Antiobesity Preparations Excluding Dietetics,338
+239,Others,Hyperkalaemia Hyperphosphataemia Products,127
+240,Others,Low Osmolar Angio Urography,343
+241,Others,Other Hormones And Preparations With Similar Action,341
+242,Others,Radiodiagnostic Agents,342
+243,Others,Sweetener,132
+244,Others,Varicose Therapy Systemic,339
+245,Otologicals,Other Otologicals,276
+246,Otologicals,Otological Anti Infectives,166
+247,Otologicals,Otological Anti Infectives Corticosteroid Combinations,118
+248,Pain Analgesics,Anaesthetics General Inhalation,346
+249,Pain Analgesics,Anaesthetics General Injectables,344
+250,Pain Analgesics,Anaesthetics Local,348
+251,Pain Analgesics,Anti Gout Preparations,128
+252,Pain Analgesics,Anti Inflammatory Enzymes,303
+253,Pain Analgesics,Anti Rheumatics Non Steroidal Systemic,109
+254,Pain Analgesics,Medicines For Osteoporosis,358
+255,Pain Analgesics,Muscle Relaxants Centrally Acting,238
+256,Pain Analgesics,Muscle Relaxants Peripherally Acting,63
+257,Pain Analgesics,Narcotics,347
+258,Pain Analgesics,Non Narcotics And Anti Pyretics,305
+259,Pain Analgesics,Products For Treatment Of Osteoarthritis,96
+260,Pain Analgesics,Products For Treatment Of Rheumatoid Arthritis,68
+261,Pain Analgesics,Rubefacients,249
+262,Pain Analgesics,Specific Anti Rheumatic Agents Systemic,290
+263,Pain Analgesics,Topical Anti Rheumatic Non Steroidal,220
+264,Respiratory,All Other Anti Asthma And Copd Products,115
+265,Respiratory,Antitussive Bronchodilator Expectorant,180
+266,Respiratory,Antitussives With Codeine,99
+267,Respiratory,Antitussives Without Codeine,130
+268,Respiratory,Bronchodilators,257
+269,Respiratory,Bronchodilators Systemic,119
+270,Respiratory,Cold Preparations Without Anti Infectives,197
+271,Respiratory,Expectorants Antitussives Cough Preparations,230
+272,Respiratory,Lung Surfactants,186
+273,Respiratory,Non Steroidal Respiratory Anti Inflammatories,269
+274,Respiratory,Other Cough Cold Preparations,131
+275,Respiratory,Pde4 Inhibitors For Asthma Copd,181
+276,Respiratory,Respiratory Stimulants,247
+277,Respiratory,Systemic Antihistamines,205
+278,Respiratory,Topical Nasal Preparations Non Steroidal,160
+279,Respiratory,Topical Nasal Preparations Steroidal,168
+280,Sex Stimulants Rejuvenators,All Other Therapeutic Products,306
+281,Sex Stimulants Rejuvenators,Erectile Dysfunction Products,167
+282,Stomatologicals,Other Stomatologicals,240
+283,Urology,All Other Urological Products,239
+284,Urology,Benign Prostatic Hypertrophy Bph Products,299
+285,Urology,Urinary Anti Infectives And Antiseptics,122
+286,Urology,Urinary Incontinence Products,212
+287,Vaccines,All Other Vaccines,236
+288,Vaccines,Antitoxic Sera,143
+289,Vaccines,Combination Of Vaccines,46
+290,Vaccines,Homologous Immunologically Active Globulins Intravenous,106
+291,Vaccines,Polyvalent Immunoglobulins Intramuscular,165
+292,Vaccines,Pure Vaccines,177
+293,Vaccines,Specific Immunoglobulins Antibacterial,42
+294,Vaccines,Specific Immunoglobulins Antiviral,196
+295,Vitamins Minerals Nutrients,Amino Acid Solutions Except Those Containing Fats,349
+296,Vitamins Minerals Nutrients,Appetite Stimulants,133
+297,Vitamins Minerals Nutrients,B Complex,170
+298,Vitamins Minerals Nutrients,Calcium Others,270
+299,Vitamins Minerals Nutrients,Calcium Products,345
+300,Vitamins Minerals Nutrients,Kanpo And Chinese Medicines,350
+301,Vitamins Minerals Nutrients,Methylcobalamin Combinations,248
+302,Vitamins Minerals Nutrients,Methylcobalamin Plain,87
+303,Vitamins Minerals Nutrients,Modern Anti Oxidants,268
+304,Vitamins Minerals Nutrients,Multivitamin With Minerals,261
+305,Vitamins Minerals Nutrients,Other Mineral Supplements,183
+306,Vitamins Minerals Nutrients,Other Nutrients,304
+307,Vitamins Minerals Nutrients,Other Vitamins,340
+308,Vitamins Minerals Nutrients,Potassium Products,154
+309,Vitamins Minerals Nutrients,Traditional Antioxidants Multivit Multimineral,188
